@@ -46,6 +46,7 @@ while True:
 ```
 
 ## OUTPUT:
+
 ## CLIENT :
 ![ex(1)_A_client](https://github.com/Vijisdurai/19CS406-EX-1/assets/118343184/8e7b14ca-87d4-472a-b832-0fbf182fa0a2)
 
